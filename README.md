@@ -20,7 +20,8 @@ This will work with any rake on the server. Not just spawned ones.
 For ESX you can use an item and if you don't use ESX, there is an export included that allows to 
 spawn a rake. (see Installation instructions / Export usage)
 
-Showcase video: https://www.youtube.com/watch?v=yZrYLUXH7-k
+Showcase video:
+https://www.youtube.com/watch?v=yZrYLUXH7-k
 
 
 ### Requirements
